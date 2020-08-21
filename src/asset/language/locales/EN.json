@@ -1,0 +1,11 @@
+{
+  "home_home": "HOME",
+  "home_ticket": "TICKET",
+  "home_userCenter": "USER",
+  "home_language": "Selected Language",
+  "user_entryPhone": "Please input phone number",
+  "user_entryVerificationCode": "Please input  SMS verification code",
+  "user_getVerificationCode": "Get sms code",
+  "user_login": "LOGIN",
+  "home_logout": "EXIT"
+}

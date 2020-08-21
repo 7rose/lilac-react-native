@@ -1,0 +1,11 @@
+{
+  "home_home": "首页",
+  "home_ticket": "购票",
+  "home_userCenter": "用户中心",
+  "home_language": "选择语言",
+  "user_entryPhone": "请输入手机号",
+  "user_entryVerificationCode": "请输入验证码",
+  "user_getVerificationCode": "获取短信验证码",
+  "user_login": "登录",
+  "home_logout": "退出"
+}

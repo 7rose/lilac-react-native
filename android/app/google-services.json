@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16562738290",
+    "firebase_url": "https://u996-38d5f.firebaseio.com",
+    "project_id": "u996-38d5f",
+    "storage_bucket": "u996-38d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16562738290:android:ae64c27a66b084e2879eeb",
+        "android_client_info": {
+          "package_name": "com.daffoid.hz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16562738290-nsqdahpffmrjnavs9loi86gd4grc995q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUXlqOf2VQbscJKmqpJRsKD6TmQKN5wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16562738290-nsqdahpffmrjnavs9loi86gd4grc995q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "16562738290-j3l9bj0dtf1hk95usc9vkqq202tkl49o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.daffoid.hz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
